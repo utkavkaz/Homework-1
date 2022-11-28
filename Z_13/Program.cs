@@ -19,5 +19,4 @@ else
     int num = a % 10;
 
     Console.Write($"Третья цифра числа {num}");
-
 }
